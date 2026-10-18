@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "GATE 2027 Countdown",
+  "short_name": "GATE 2027",
+  "description": "Full-screen live countdown for GATE 2027 Chemical Engineering",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050708",
+  "theme_color": "#050708",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
